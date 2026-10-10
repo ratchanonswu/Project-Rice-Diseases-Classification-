@@ -1,0 +1,66 @@
+{
+  "experiment_title": "Rice Leaf Disease Classification using ResNet50 Transfer Learning",
+  "python_version": "3.11.9",
+  "tensorflow_version": "2.21.0",
+  "keras_version": "3.15.1",
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "random_seed": 42,
+  "dataset_size": 3829,
+  "dataset_split": {
+    "train": 2871,
+    "validation": 383,
+    "test": 575
+  },
+  "class_distribution": {
+    "Bacterial Leaf Blight": 636,
+    "Brown Spot": 646,
+    "Healthy Rice Leaf": 653,
+    "Leaf Blast": 634,
+    "Leaf Scald": 628,
+    "Sheath Blight": 632
+  },
+  "classes": [
+    "Bacterial Leaf Blight",
+    "Brown Spot",
+    "Healthy Rice Leaf",
+    "Leaf Blast",
+    "Leaf Scald",
+    "Sheath Blight"
+  ],
+  "image_size": [
+    224,
+    224,
+    3
+  ],
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "optimizer": "Adam",
+  "max_epochs": 25,
+  "augmentation_settings": {
+    "random_flip": "horizontal",
+    "random_rotation": 0.1,
+    "random_zoom": 0.1,
+    "random_translation": 0.08
+  },
+  "model_architecture": {
+    "backbone": "ResNet50 (ImageNet Pretrained, Frozen)",
+    "pooling": "GlobalAveragePooling2D",
+    "dense_head": 256,
+    "dropout": 0.3,
+    "output_units": 6,
+    "output_activation": "softmax"
+  },
+  "test_results": {
+    "model": "ResNet50",
+    "test_sample_count": 575,
+    "accuracy": 0.9026,
+    "precision_macro": 0.9024,
+    "precision_weighted": 0.9031,
+    "recall_macro": 0.902,
+    "recall_weighted": 0.9026,
+    "f1_score_macro": 0.9021,
+    "f1_score_weighted": 0.9027,
+    "roc_auc_macro": 0.9883,
+    "roc_auc_weighted": 0.9883
+  }
+}

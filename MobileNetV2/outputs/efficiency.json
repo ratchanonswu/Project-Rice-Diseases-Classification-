@@ -1,0 +1,23 @@
+{
+  "model_architecture": "MobileNetV2",
+  "total_parameters": 2587462,
+  "trainable_parameters": 329478,
+  "non_trainable_parameters": 2257984,
+  "model_file_size_bytes": 13585025,
+  "model_file_size_mb": 12.96,
+  "training_time_seconds": 718.73,
+  "training_time_minutes": 11.98,
+  "hardware_profile": {
+    "platform": "Windows-10-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD",
+    "python_version": "3.11.9",
+    "device": "CPU"
+  },
+  "inference_latency": {
+    "profiled_samples": 50,
+    "average_inference_time_ms": 129.521,
+    "median_inference_time_ms": 126.994,
+    "std_inference_time_ms": 12.081,
+    "throughput_fps": 7.72
+  }
+}

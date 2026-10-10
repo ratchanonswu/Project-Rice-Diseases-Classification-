@@ -1,0 +1,15 @@
+{
+  "model_architecture": "ResNet50",
+  "total_parameters": 24113798,
+  "trainable_parameters": 526086,
+  "model_file_size_bytes": 101333595,
+  "model_file_size_mb": 96.64,
+  "training_time_seconds": 2259.16,
+  "training_time_minutes": 37.65,
+  "inference_latency": {
+    "average_inference_time_ms": 206.088,
+    "median_inference_time_ms": 199.995,
+    "std_inference_time_ms": 18.694,
+    "throughput_fps": 4.85
+  }
+}

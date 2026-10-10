@@ -1,0 +1,576 @@
+image_path,true_class,predicted_class,confidence,correct
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7635.jpg,Leaf Blast,Leaf Blast,0.8979,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8992.jpg,Leaf Blast,Leaf Blast,0.4613,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (108).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6185.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6548,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_64.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9979,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1859.jpg,Leaf Scald,Leaf Scald,0.9315,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8466.jpg,Leaf Blast,Leaf Blast,0.9664,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5798.jpg,Leaf Scald,Leaf Scald,0.9937,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1440.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9993,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1778.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9622,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3329.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.618,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2425.jpg,Leaf Scald,Leaf Scald,0.9987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_412.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8509,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4899.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9914,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (24).jpg,Leaf Scald,Leaf Scald,0.9541,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7578.jpg,Brown Spot,Leaf Scald,0.7742,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_636.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7413,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4038.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9621,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7903.jpg,Leaf Blast,Leaf Blast,0.9699,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173413_1.jpg,Sheath Blight,Sheath Blight,0.9956,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (214).jpg,Brown Spot,Brown Spot,0.967,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5670.jpg,Leaf Scald,Leaf Scald,0.99,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6149.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.632,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7190.jpg,Leaf Blast,Leaf Blast,0.3887,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9474.jpg,Sheath Blight,Sheath Blight,0.5652,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_6987.jpg,Leaf Blast,Leaf Blast,0.9656,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7979.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9866,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8162.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9607,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_527.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9218,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7697.jpg,Leaf Blast,Leaf Blast,0.971,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8907.jpg,Sheath Blight,Sheath Blight,0.927,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1125.jpg,Leaf Scald,Leaf Scald,0.8498,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8846.jpg,Sheath Blight,Sheath Blight,0.966,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143740.jpg,Leaf Blast,Leaf Blast,0.8631,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (22).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9262,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6550.jpg,Bacterial Leaf Blight,Leaf Blast,0.4649,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8467.jpg,Leaf Blast,Leaf Blast,0.9643,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7514.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9994,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8679.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9055,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_149.jpg,Sheath Blight,Sheath Blight,0.3482,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9991.jpg,Sheath Blight,Sheath Blight,0.9883,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (81).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9882,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_117.jpg,Leaf Scald,Leaf Scald,0.5984,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3882.jpg,Leaf Scald,Leaf Scald,0.9877,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (131).jpg,Brown Spot,Brown Spot,0.7623,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1430.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9938,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_1728.jpg,Leaf Blast,Leaf Blast,0.8602,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\20231006_165550.jpg,Brown Spot,Brown Spot,0.9135,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1107.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_456.jpg,Leaf Scald,Bacterial Leaf Blight,0.8062,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5887.jpg,Brown Spot,Brown Spot,0.9883,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_205.jpg,Leaf Scald,Sheath Blight,0.5462,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3331.jpg,Leaf Scald,Leaf Scald,0.755,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4057.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6129,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7388.jpg,Brown Spot,Brown Spot,0.8793,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1553.jpg,Leaf Scald,Leaf Scald,0.5108,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173852.jpg,Sheath Blight,Sheath Blight,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5007.jpg,Brown Spot,Brown Spot,0.9951,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_172624.jpg,Sheath Blight,Sheath Blight,0.9973,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7314.jpg,Leaf Blast,Leaf Blast,0.6824,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_576.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9988,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_43.jpg,Sheath Blight,Sheath Blight,0.9098,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9780.jpg,Sheath Blight,Sheath Blight,0.9309,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\20231006_165801.jpg,Brown Spot,Brown Spot,0.8507,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (47).jpg,Sheath Blight,Sheath Blight,0.9901,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1930.jpg,Leaf Scald,Leaf Scald,0.7369,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8579.jpg,Leaf Blast,Bacterial Leaf Blight,0.8407,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1294.jpg,Leaf Scald,Leaf Scald,0.9048,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5416.jpg,Leaf Scald,Leaf Scald,0.9903,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9103.jpg,Sheath Blight,Sheath Blight,0.9671,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7268.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9935,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_334.jpg,Bacterial Leaf Blight,Leaf Scald,0.748,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7658.jpg,Brown Spot,Brown Spot,0.9871,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6933.jpg,Brown Spot,Brown Spot,0.7934,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9100.jpg,Sheath Blight,Sheath Blight,0.9728,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8245.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2122.jpg,Leaf Scald,Leaf Scald,0.4341,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (8).jpg,Sheath Blight,Sheath Blight,0.9998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143841.jpg,Leaf Blast,Leaf Blast,0.9714,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3100.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6798,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2638.jpg,Leaf Scald,Sheath Blight,0.5667,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (138).jpg,Brown Spot,Brown Spot,0.4306,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (160).jpg,Brown Spot,Brown Spot,0.8649,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1373.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.5043,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6567.jpg,Brown Spot,Brown Spot,0.9447,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231014_173237.jpg,Brown Spot,Brown Spot,0.8564,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5259.jpg,Leaf Scald,Leaf Scald,0.6546,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (25).jpg,Sheath Blight,Leaf Scald,0.5763,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9559.jpg,Sheath Blight,Sheath Blight,0.8649,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231006_170608.jpg,Leaf Blast,Leaf Blast,0.7643,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (60).jpg,Leaf Scald,Leaf Blast,0.7285,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1964.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9997,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_144000.jpg,Bacterial Leaf Blight,Leaf Blast,0.9285,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8444.jpg,Leaf Blast,Leaf Blast,0.9666,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5430.jpg,Leaf Scald,Leaf Scald,0.9659,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9276.jpg,Leaf Blast,Leaf Blast,0.9273,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3080.jpg,Leaf Scald,Leaf Scald,0.6559,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172953.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8379,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1161.jpg,Leaf Scald,Leaf Scald,0.9076,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1973.jpg,Leaf Scald,Leaf Scald,0.685,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8729.jpg,Sheath Blight,Leaf Scald,0.3117,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5397.jpg,Bacterial Leaf Blight,Leaf Scald,0.7461,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9060.jpg,Leaf Blast,Leaf Blast,0.9104,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (32).jpg,Leaf Scald,Leaf Scald,0.9415,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9016.jpg,Sheath Blight,Sheath Blight,0.9896,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_284.jpg,Leaf Scald,Leaf Scald,0.9305,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5104.jpg,Brown Spot,Brown Spot,0.6476,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_942.jpg,Leaf Scald,Leaf Scald,0.9628,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7779.jpg,Brown Spot,Leaf Scald,0.2799,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (158).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9883,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171101.jpg,Sheath Blight,Sheath Blight,0.9988,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8041.jpg,Brown Spot,Brown Spot,0.7894,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6362.jpg,Brown Spot,Healthy Rice Leaf,0.5353,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4958.jpg,Brown Spot,Brown Spot,0.9858,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171020.jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6368.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.4734,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (53).jpg,Leaf Scald,Sheath Blight,0.5854,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3533.jpg,Leaf Scald,Leaf Scald,0.7482,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9492.jpg,Leaf Blast,Leaf Blast,0.6573,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9333.jpg,Leaf Blast,Leaf Blast,0.9494,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172913.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.835,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9458.jpg,Sheath Blight,Sheath Blight,0.4024,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8131.jpg,Brown Spot,Brown Spot,0.9905,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1933.jpg,Leaf Scald,Leaf Scald,0.9801,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6177.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.7218,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_184.jpg,Leaf Scald,Leaf Scald,0.7926,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5071.jpg,Brown Spot,Brown Spot,0.9283,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4269.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9455,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9335.jpg,Sheath Blight,Sheath Blight,0.8374,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_228.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9589,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8963.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9986,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8499.jpg,Leaf Blast,Leaf Blast,0.956,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (32).jpg,Sheath Blight,Sheath Blight,0.9985,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_24.jpg,Sheath Blight,Sheath Blight,0.5709,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8863.jpg,Sheath Blight,Sheath Blight,0.9991,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_219.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9767,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8698.jpg,Leaf Blast,Leaf Blast,0.5196,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8725.jpg,Sheath Blight,Sheath Blight,0.9202,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7924.jpg,Leaf Blast,Leaf Blast,0.8693,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_717.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9928,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5079.jpg,Brown Spot,Brown Spot,0.5826,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5050.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9569,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_2993.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6163,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7505.jpg,Brown Spot,Brown Spot,0.9949,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6779.jpg,Brown Spot,Brown Spot,0.9972,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8224.jpg,Brown Spot,Brown Spot,0.6798,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1197.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.5977,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5151.jpg,Brown Spot,Brown Spot,0.9995,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9181.jpg,Leaf Blast,Bacterial Leaf Blight,0.4671,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6529.jpg,Brown Spot,Brown Spot,0.7732,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_439.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.983,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9904.jpg,Leaf Blast,Leaf Blast,0.953,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5315.jpg,Brown Spot,Brown Spot,0.8182,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8816.jpg,Leaf Blast,Leaf Blast,0.7312,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8342.jpg,Sheath Blight,Sheath Blight,0.455,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1482.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9403,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_366.jpg,Leaf Scald,Leaf Scald,0.9515,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1203.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6696,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9819.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9371,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7574.jpg,Brown Spot,Brown Spot,0.9903,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3564.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9636,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5567.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8833,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_1688.jpg,Leaf Blast,Leaf Blast,0.8158,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (177).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9954,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8203.jpg,Brown Spot,Brown Spot,0.5365,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (5).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9464,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (102).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9152,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173800.jpg,Sheath Blight,Sheath Blight,0.9997,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (124).jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5208.jpg,Brown Spot,Brown Spot,0.8463,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_741.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.5072,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_71.jpg,Leaf Scald,Leaf Scald,0.9786,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231006_163221 - Copy.jpg,Sheath Blight,Sheath Blight,0.976,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6127.jpg,Leaf Scald,Leaf Scald,0.9237,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (104).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7184,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (146).jpg,Brown Spot,Brown Spot,0.9525,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3001.jpg,Leaf Scald,Leaf Scald,0.713,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173950.jpg,Sheath Blight,Sheath Blight,0.9987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (56).jpg,Leaf Scald,Leaf Scald,0.7317,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9760.jpg,Leaf Blast,Leaf Blast,0.9671,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1907.jpg,Leaf Scald,Leaf Scald,0.6672,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170947.jpg,Sheath Blight,Sheath Blight,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7910.jpg,Leaf Blast,Leaf Scald,0.9251,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5508.jpg,Brown Spot,Brown Spot,0.7746,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1583.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6711,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6317.jpg,Brown Spot,Brown Spot,0.9865,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7696.jpg,Leaf Blast,Leaf Blast,0.745,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1355.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9463,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1583.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9932,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7553.jpg,Leaf Blast,Sheath Blight,0.4523,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143842 - Copy.jpg,Leaf Blast,Leaf Blast,0.9765,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173857.jpg,Sheath Blight,Sheath Blight,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9008.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9903,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143844.jpg,Leaf Blast,Leaf Blast,0.517,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5841.jpg,Brown Spot,Brown Spot,0.661,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8783.jpg,Leaf Blast,Leaf Blast,0.8774,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_26.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9985,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6163.jpg,Brown Spot,Brown Spot,0.9886,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8116.jpg,Brown Spot,Brown Spot,0.8627,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8194.jpg,Brown Spot,Brown Spot,0.8085,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4531.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9004,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9196.jpg,Sheath Blight,Sheath Blight,0.9986,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2330.jpg,Leaf Scald,Bacterial Leaf Blight,0.4631,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7686.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9983,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171103.jpg,Sheath Blight,Sheath Blight,0.9996,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6282.jpg,Brown Spot,Brown Spot,0.539,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5667.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8006,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4482.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8556,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8699.jpg,Sheath Blight,Leaf Blast,0.6978,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7509.jpg,Leaf Blast,Bacterial Leaf Blight,0.9225,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7131.jpg,Brown Spot,Brown Spot,0.5665,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_309.jpg,Sheath Blight,Sheath Blight,0.9996,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3167.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9055,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5891.jpg,Brown Spot,Brown Spot,0.6798,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1119.jpg,Leaf Scald,Leaf Scald,0.6841,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9088.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9612,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_187.jpg,Bacterial Leaf Blight,Leaf Scald,0.4609,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7385.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9709,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (125).jpg,Healthy Rice Leaf,Healthy Rice Leaf,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_555.jpg,Sheath Blight,Sheath Blight,0.5643,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1386.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8974,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (6).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.5485,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143741.jpg,Bacterial Leaf Blight,Leaf Blast,0.6213,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (146).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.933,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_1715.jpg,Leaf Blast,Leaf Blast,0.955,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4299.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.952,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7490.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9827,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173413.jpg,Sheath Blight,Sheath Blight,0.9916,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173939.jpg,Sheath Blight,Sheath Blight,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8863.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9792,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2424.jpg,Leaf Scald,Leaf Scald,0.5442,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5434.jpg,Leaf Scald,Leaf Scald,0.9885,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (176).jpg,Brown Spot,Brown Spot,0.9118,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8165.jpg,Sheath Blight,Sheath Blight,0.9997,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8454.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (122).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6040.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6837,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2990.jpg,Leaf Scald,Brown Spot,0.4921,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2063.jpg,Leaf Scald,Leaf Scald,0.8553,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (86).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5212.jpg,Leaf Scald,Leaf Scald,0.9898,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5317.jpg,Brown Spot,Brown Spot,0.887,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1518.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1993.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9991,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9353.jpg,Sheath Blight,Sheath Blight,0.9955,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7740.jpg,Leaf Blast,Leaf Blast,0.5582,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5578.jpg,Brown Spot,Brown Spot,0.8845,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4766.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9707,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171018_1.jpg,Sheath Blight,Sheath Blight,0.9991,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1435.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9779,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (33).jpg,Sheath Blight,Sheath Blight,0.9998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\20231006_165616.jpg,Brown Spot,Brown Spot,0.9387,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8350.jpg,Leaf Blast,Leaf Blast,0.7293,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1518.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.4332,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_143304.jpg,Sheath Blight,Sheath Blight,0.9982,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1145.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8554,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (1).jpg,Sheath Blight,Sheath Blight,0.9942,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6005.jpg,Leaf Scald,Bacterial Leaf Blight,0.8502,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4795.jpg,Brown Spot,Brown Spot,0.9419,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171026.jpg,Sheath Blight,Sheath Blight,0.9956,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6172.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8797,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173710.jpg,Sheath Blight,Bacterial Leaf Blight,0.3326,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9683.jpg,Leaf Blast,Leaf Blast,0.9242,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2822.jpg,Leaf Scald,Leaf Scald,0.9478,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5696.jpg,Bacterial Leaf Blight,Leaf Scald,0.7116,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_386.jpg,Sheath Blight,Sheath Blight,0.9872,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170951.jpg,Sheath Blight,Sheath Blight,0.995,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9367.jpg,Sheath Blight,Sheath Blight,0.9548,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3622.jpg,Leaf Scald,Leaf Scald,0.9519,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173912.jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8140.jpg,Sheath Blight,Sheath Blight,0.9973,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_576.jpg,Sheath Blight,Leaf Blast,0.555,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8035.jpg,Brown Spot,Brown Spot,0.7298,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8862.jpg,Leaf Blast,Leaf Blast,0.7422,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_485.jpg,Leaf Scald,Leaf Scald,0.9705,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9338.jpg,Leaf Blast,Leaf Scald,0.7449,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7788.jpg,Brown Spot,Brown Spot,0.9979,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8750.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9848,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4309.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.7566,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7474.jpg,Leaf Blast,Leaf Blast,0.9672,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8070.jpg,Brown Spot,Brown Spot,0.9861,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1577.jpg,Leaf Scald,Leaf Scald,0.8417,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6236.jpg,Brown Spot,Brown Spot,0.867,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8441.jpg,Brown Spot,Leaf Blast,0.5227,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6421.jpg,Brown Spot,Brown Spot,0.9549,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_353.jpg,Leaf Scald,Leaf Scald,0.8156,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4901.jpg,Brown Spot,Brown Spot,0.9273,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5328.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.7901,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (121).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_609.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8281,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171019.jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5346.jpg,Leaf Scald,Leaf Scald,0.5564,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8743.jpg,Leaf Blast,Leaf Blast,0.5413,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5351.jpg,Brown Spot,Brown Spot,0.9593,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (46).jpg,Sheath Blight,Sheath Blight,0.9587,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173703.jpg,Sheath Blight,Sheath Blight,0.9951,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1638.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8191,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173911.jpg,Sheath Blight,Sheath Blight,0.9995,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8334.jpg,Leaf Blast,Leaf Blast,0.9259,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_6926.jpg,Leaf Blast,Leaf Blast,0.7028,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_546.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9543,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9808.jpg,Leaf Blast,Leaf Blast,0.9715,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_359.jpg,Leaf Blast,Leaf Blast,0.9891,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (15).jpg,Sheath Blight,Sheath Blight,0.9909,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5441.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9634,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8440.jpg,Sheath Blight,Sheath Blight,0.9655,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_642.jpg,Sheath Blight,Sheath Blight,0.9712,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1164.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9866,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1966.jpg,Leaf Scald,Leaf Scald,0.6833,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172907.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8602,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7797.jpg,Brown Spot,Brown Spot,0.6228,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1692.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9807.jpg,Leaf Blast,Leaf Blast,0.7672,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6009.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.994,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1957.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8806,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_629.jpg,Sheath Blight,Sheath Blight,0.6877,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (87).jpg,Leaf Scald,Leaf Scald,0.4945,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (92).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7755,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4261.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.7834,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_240.jpg,Leaf Scald,Leaf Scald,0.9494,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5118.jpg,Brown Spot,Brown Spot,0.9969,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_2013.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9458,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7532.jpg,Leaf Blast,Leaf Scald,0.4935,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5014.jpg,Bacterial Leaf Blight,Leaf Scald,0.8036,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170958.jpg,Sheath Blight,Sheath Blight,0.9986,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_155.jpg,Leaf Blast,Leaf Blast,0.9726,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2586.jpg,Leaf Scald,Leaf Scald,0.8262,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6136.jpg,Leaf Scald,Leaf Scald,0.982,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143855 - Copy.jpg,Leaf Blast,Leaf Blast,0.9269,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (178).jpg,Brown Spot,Brown Spot,0.9966,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5378.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.648,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9828.jpg,Leaf Blast,Leaf Blast,0.9729,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8720.jpg,Leaf Blast,Leaf Blast,0.9764,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (99).jpg,Sheath Blight,Sheath Blight,0.9993,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4860.jpg,Brown Spot,Brown Spot,0.9586,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (29).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6203.jpg,Leaf Scald,Leaf Scald,0.8672,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8178.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9079,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1169.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9993,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143750 - Copy.jpg,Leaf Blast,Leaf Blast,0.9859,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4879.jpg,Brown Spot,Brown Spot,0.8395,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7261.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9982,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9548,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6526.jpg,Brown Spot,Brown Spot,0.8725,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (159).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9969,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8525.jpg,Leaf Blast,Leaf Blast,0.9374,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9190.jpg,Healthy Rice Leaf,Brown Spot,0.5473,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_935.jpg,Leaf Scald,Leaf Scald,0.8684,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9154.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7175,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_822.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9722,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7836.jpg,Leaf Blast,Leaf Blast,0.7824,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1411.jpg,Leaf Scald,Sheath Blight,0.3916,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6549.jpg,Brown Spot,Brown Spot,0.7616,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_244.jpg,Leaf Blast,Leaf Blast,0.9041,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_33.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9339,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_87.jpg,Brown Spot,Brown Spot,0.992,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7116.jpg,Leaf Blast,Sheath Blight,0.3755,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8087.jpg,Leaf Blast,Leaf Blast,0.9722,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (4).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9927,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1118.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.962,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9324.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9893,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (114).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9988,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7316.jpg,Brown Spot,Brown Spot,0.6066,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7735.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9936,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1006.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8955,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1743.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6683,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3107.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.4211,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173412.jpg,Sheath Blight,Sheath Blight,0.9983,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9537.jpg,Sheath Blight,Sheath Blight,0.9041,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (51).jpg,Sheath Blight,Sheath Blight,0.9982,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (58).jpg,Leaf Scald,Leaf Scald,0.4384,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (36).jpg,Sheath Blight,Sheath Blight,0.9563,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5671.jpg,Brown Spot,Leaf Blast,0.675,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_305.jpg,Leaf Scald,Leaf Scald,0.9505,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173940.jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8388.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9993,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (77).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9689,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5332.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9444,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7913.jpg,Leaf Blast,Leaf Blast,0.9885,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9854.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8194,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8922.jpg,Leaf Blast,Leaf Blast,0.8503,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9848.jpg,Leaf Blast,Leaf Blast,0.8525,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173920.jpg,Sheath Blight,Sheath Blight,0.9992,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_78.jpg,Brown Spot,Brown Spot,0.5731,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_207.jpg,Brown Spot,Brown Spot,0.9749,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (110).jpg,Healthy Rice Leaf,Healthy Rice Leaf,1.0,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9409.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9946,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8818.jpg,Leaf Blast,Leaf Scald,0.569,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8903.jpg,Leaf Blast,Leaf Blast,0.7925,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8169.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9958,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3814.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6081,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8391.jpg,Leaf Blast,Leaf Blast,0.9936,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7239.jpg,Leaf Blast,Leaf Blast,0.9478,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3818.jpg,Leaf Scald,Leaf Scald,0.5947,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9399.jpg,Sheath Blight,Sheath Blight,0.8984,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5041.jpg,Brown Spot,Brown Spot,0.8512,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_260.jpg,Leaf Blast,Leaf Blast,0.6287,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4814.jpg,Brown Spot,Brown Spot,0.9953,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5567.jpg,Brown Spot,Brown Spot,0.9517,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8427.jpg,Sheath Blight,Sheath Blight,0.7617,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1460.jpg,Leaf Scald,Leaf Scald,0.9145,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_599.jpg,Leaf Scald,Leaf Scald,0.9877,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4746.jpg,Brown Spot,Brown Spot,0.9936,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8498.jpg,Leaf Blast,Leaf Blast,0.7126,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3716.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.974,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1236.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.945,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7048.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8167,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_805.jpg,Leaf Scald,Leaf Scald,0.9988,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2713.jpg,Leaf Scald,Leaf Scald,0.9603,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (96).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9837,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (116).jpg,Sheath Blight,Sheath Blight,0.9738,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7937.jpg,Leaf Blast,Leaf Blast,0.9308,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8506.jpg,Leaf Blast,Leaf Blast,0.9807,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171209.jpg,Sheath Blight,Sheath Blight,0.9934,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_230.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9559,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6233.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9458,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1826.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.6251,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_354.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9763,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7923.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8151,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8337.jpg,Brown Spot,Leaf Blast,0.5701,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6436.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9735,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7031.jpg,Brown Spot,Brown Spot,0.9928,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5989.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9578,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6096.jpg,Brown Spot,Brown Spot,0.8203,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_916.jpg,Leaf Scald,Leaf Scald,0.7909,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_101.jpg,Leaf Blast,Leaf Blast,0.6984,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (74).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9949,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7037.jpg,Leaf Blast,Leaf Blast,0.3913,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_294.jpg,Sheath Blight,Sheath Blight,0.9949,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (222).jpg,Brown Spot,Brown Spot,0.5638,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (55).jpg,Leaf Scald,Sheath Blight,0.5353,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_496.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9841,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8618.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9974,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4745.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9569,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7570.jpg,Leaf Blast,Leaf Blast,0.6588,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143839 - Copy.jpg,Leaf Blast,Leaf Blast,0.4581,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (135).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9971,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5855.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.881,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173711.jpg,Sheath Blight,Sheath Blight,0.7462,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8089.jpg,Brown Spot,Brown Spot,0.7821,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_144301_2.jpg,Sheath Blight,Sheath Blight,0.9948,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9295.jpg,Leaf Blast,Leaf Blast,0.9807,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8167.jpg,Sheath Blight,Sheath Blight,0.9996,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5790.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8088,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_151.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.973,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5316.jpg,Brown Spot,Brown Spot,0.9363,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7023.jpg,Leaf Blast,Sheath Blight,0.2947,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_123.jpg,Brown Spot,Brown Spot,0.7611,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231018_142956_1.jpg,Brown Spot,Brown Spot,0.5248,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9822.jpg,Leaf Blast,Leaf Blast,0.8454,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (167).jpg,Brown Spot,Brown Spot,0.8592,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8109.jpg,Sheath Blight,Sheath Blight,0.9959,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7891.jpg,Brown Spot,Brown Spot,0.9425,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8312.jpg,Brown Spot,Brown Spot,0.9543,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_6.jpg,Leaf Blast,Leaf Blast,0.5329,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5552.jpg,Leaf Scald,Leaf Scald,0.4289,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9874.jpg,Sheath Blight,Sheath Blight,0.9864,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_143318.jpg,Sheath Blight,Sheath Blight,0.9736,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5601.jpg,Brown Spot,Brown Spot,0.488,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143030.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.5042,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9584.jpg,Sheath Blight,Sheath Blight,0.9672,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (40).jpg,Sheath Blight,Sheath Blight,0.9734,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_586.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8876,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5062.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8995,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8724.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9977,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172841.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8459,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6001.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9859,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6355.jpg,Bacterial Leaf Blight,Leaf Scald,0.4971,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8163.jpg,Sheath Blight,Sheath Blight,0.9936,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_491.jpg,Sheath Blight,Sheath Blight,0.9824,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1648.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9774,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (128).jpg,Brown Spot,Brown Spot,0.9297,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6040.jpg,Leaf Scald,Leaf Scald,0.6654,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_162.jpg,Leaf Scald,Leaf Scald,0.9363,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (152).jpg,Brown Spot,Brown Spot,0.986,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6188.jpg,Brown Spot,Brown Spot,0.8571,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5723.jpg,Leaf Scald,Bacterial Leaf Blight,0.7066,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1924.jpg,Leaf Scald,Leaf Scald,0.9625,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7291.jpg,Leaf Blast,Leaf Blast,0.7196,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_173819.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6789,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2241.jpg,Leaf Scald,Leaf Scald,0.7868,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8172.jpg,Leaf Blast,Leaf Blast,0.9881,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6291.jpg,Leaf Scald,Leaf Scald,0.9516,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_44.jpg,Healthy Rice Leaf,Brown Spot,0.7906,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171000.jpg,Sheath Blight,Sheath Blight,0.998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9504.jpg,Leaf Blast,Leaf Blast,0.699,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6544.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.968,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_190.jpg,Leaf Scald,Leaf Scald,0.9975,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1295.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9807,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3382.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9272,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7464.jpg,Leaf Blast,Leaf Blast,0.9329,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (141).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9684,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172951.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.5548,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172852.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9061,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (185).jpg,Brown Spot,Brown Spot,0.7228,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2769.jpg,Leaf Scald,Leaf Scald,0.9962,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9980.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.8738,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1570.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9954,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8945.jpg,Leaf Blast,Bacterial Leaf Blight,0.5185,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7846.jpg,Leaf Blast,Leaf Blast,0.7743,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3840.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9331,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9037.jpg,Leaf Blast,Leaf Blast,0.7833,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_709.jpg,Leaf Scald,Leaf Scald,0.994,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8507.jpg,Leaf Blast,Leaf Blast,0.879,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8553.jpg,Sheath Blight,Bacterial Leaf Blight,0.6024,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_172909.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8583,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1868.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9996,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1965.jpg,Leaf Scald,Leaf Scald,0.9759,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5244.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6183,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (52).jpg,Leaf Scald,Leaf Scald,0.9061,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (71).jpg,Leaf Scald,Leaf Blast,0.3095,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7623.jpg,Leaf Blast,Leaf Blast,0.9622,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_173342.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9941,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7710.jpg,Brown Spot,Brown Spot,0.9489,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_131.jpg,Brown Spot,Brown Spot,0.5444,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5577.jpg,Brown Spot,Brown Spot,0.9835,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (74).jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1816.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.98,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (130).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9996,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (72).jpg,Leaf Scald,Leaf Scald,0.3245,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5985.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8855,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3269.jpg,Leaf Scald,Leaf Scald,0.6564,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7544.jpg,Leaf Blast,Leaf Blast,0.9388,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171736.jpg,Sheath Blight,Sheath Blight,0.9999,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231014_171716.jpg,Brown Spot,Bacterial Leaf Blight,0.6228,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7794.jpg,Leaf Blast,Bacterial Leaf Blight,0.8065,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7378.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7357,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8839.jpg,Sheath Blight,Sheath Blight,0.8646,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3382.jpg,Leaf Scald,Leaf Scald,0.9667,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_296.jpg,Leaf Scald,Bacterial Leaf Blight,0.7915,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (69).jpg,Leaf Scald,Leaf Scald,0.3949,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1100.jpg,Leaf Scald,Leaf Scald,0.9909,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8061.jpg,Sheath Blight,Sheath Blight,0.7751,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4702.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8549,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_217.jpg,Leaf Scald,Leaf Scald,0.541,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8955.jpg,Leaf Blast,Leaf Blast,0.8916,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1144.jpg,Bacterial Leaf Blight,Leaf Blast,0.8714,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (186).jpg,Brown Spot,Brown Spot,0.8173,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_4.jpg,Leaf Blast,Leaf Blast,0.9577,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1720.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7173,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_171757.jpg,Leaf Blast,Leaf Scald,0.6677,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (116).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9989,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2624.jpg,Leaf Scald,Leaf Scald,0.629,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8044.jpg,Sheath Blight,Sheath Blight,0.998,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (84).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.989,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6471.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.8913,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_878.jpg,Leaf Scald,Leaf Scald,0.9424,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6408.jpg,Brown Spot,Brown Spot,0.9989,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6077.jpg,Brown Spot,Brown Spot,0.8276,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7442.jpg,Leaf Blast,Leaf Blast,0.8613,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1130.jpg,Leaf Scald,Leaf Scald,0.9985,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_173718.jpg,Bacterial Leaf Blight,Brown Spot,0.6304,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (133).jpg,Brown Spot,Brown Spot,0.9845,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (168).jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.965,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9787.jpg,Leaf Blast,Leaf Blast,0.8144,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6573.jpg,Brown Spot,Brown Spot,0.5669,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8714.jpg,Sheath Blight,Sheath Blight,0.9585,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4129.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.6556,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9932.jpg,Leaf Blast,Leaf Blast,0.8827,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3683.jpg,Bacterial Leaf Blight,Leaf Blast,0.8953,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9970.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9987,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (61).jpg,Leaf Scald,Leaf Blast,0.5664,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (79).jpg,Leaf Scald,Sheath Blight,0.5648,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9481.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9995,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_143.jpg,Leaf Scald,Leaf Scald,0.9789,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_47.jpg,Brown Spot,Brown Spot,0.9934,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9705.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.7773,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3547.jpg,Bacterial Leaf Blight,Bacterial Leaf Blight,0.9432,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (97).jpg,Sheath Blight,Sheath Blight,0.9952,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8670.jpg,Leaf Blast,Leaf Blast,0.8684,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (92).jpg,Sheath Blight,Sheath Blight,0.9346,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (171).jpg,Brown Spot,Brown Spot,0.8551,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2916.jpg,Leaf Scald,Bacterial Leaf Blight,0.4058,False
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_85.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9862,True
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1238.jpg,Healthy Rice Leaf,Healthy Rice Leaf,0.9997,True
