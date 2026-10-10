@@ -154,3 +154,59 @@ Evaluated on 570 test images (Clean Split v1). Hardware: CPU (AMD64).
   - ResNet50: `tensorflow.keras.applications.resnet50.preprocess_input` (zero-centered BGR ImageNet means)
   - MobileNetV2: `tensorflow.keras.applications.mobilenet_v2.preprocess_input` (scaled to [−1, 1])
 
+## Production Deployment (Option 2: Vercel + Render / Railway)
+
+This setup deploys the frontend as a static SPA on **Vercel** and the FastAPI inference engine on **Render** (or **Railway**).
+
+### Part 1: Deploy Backend (Render or Railway)
+
+1. **Push your code to GitHub**:
+   Ensure Git LFS is enabled for `.keras` files:
+   ```powershell
+   git lfs install
+   git add .gitattributes
+   git commit -m "Configure Git LFS"
+   ```
+
+2. **Create a Web Service on [Render.com](https://render.com/)**:
+   - Choose **New Web Service** and connect your GitHub repository.
+   - **Environment**: `Python 3`
+   - **Root Directory**: Leave blank (repo root) or set to the project root.
+   - **Build Command**:
+     ```bash
+     pip install -r RiceVisionAI/backend/requirements.txt
+     ```
+   - **Start Command**:
+     ```bash
+     uvicorn RiceVisionAI.backend.main:app --host 0.0.0.0 --port $PORT
+     ```
+   - **Instance Type**: Minimum 1 GB RAM (Free or Starter tier).
+   - **Environment Variables**:
+     - `PYTHON_VERSION`: `3.11.9`
+     - `ALLOWED_ORIGINS`: `https://your-frontend-domain.vercel.app` (or `*`)
+
+3. Copy your live backend URL (e.g. `https://ricevision-backend.onrender.com`).
+
+---
+
+### Part 2: Deploy Frontend (Vercel)
+
+1. Log into [Vercel.com](https://vercel.com/) and click **Add New > Project**.
+2. Import your GitHub repository.
+3. Configure project settings:
+   - **Framework Preset**: `Vite`
+   - **Root Directory**: `RiceVisionAI/frontend`
+   - **Build Command**: `npm run build`
+   - **Output Directory**: `dist`
+4. **Environment Variables**:
+   - Name: `VITE_API_URL`
+   - Value: `https://ricevision-backend.onrender.com` (your backend URL from Part 1, without trailing slash)
+5. Click **Deploy**.
+
+---
+
+### Part 3: Test Live App
+
+- Open your Vercel deployment URL.
+- Test the **Image Prediction** tab by uploading a rice leaf image to confirm end-to-end inference between Vercel and your backend.
+

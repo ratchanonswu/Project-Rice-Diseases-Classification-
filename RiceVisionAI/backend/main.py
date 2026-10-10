@@ -20,27 +20,30 @@ from PIL import Image
 
 # ─── Path constants ──────────────────────────────────────────────────────────
 
-BASE = Path(__file__).resolve().parent.parent.parent  # Rice Diseases Classification/
-RESNET_DIR = BASE / "ResNet50"
-MOBILENET_DIR = BASE / "MobileNetV2"
-DATASET_DIR = RESNET_DIR / "dataset"
+# Base data directory: allows overriding via DATA_ROOT environment variable
+DEFAULT_BASE = Path(__file__).resolve().parent.parent.parent  # Rice Diseases Classification/
+DATA_ROOT = Path(os.environ.get("DATA_ROOT", DEFAULT_BASE)).resolve()
 
-RESNET_CHECKPOINT = RESNET_DIR / "models" / "clean_split_v1" / "resnet50.keras"
-MOBILENET_CHECKPOINT = MOBILENET_DIR / "models" / "clean_split_v1" / "mobilenetv2.keras"
+RESNET_DIR = Path(os.environ.get("RESNET_DIR", DATA_ROOT / "ResNet50")).resolve()
+MOBILENET_DIR = Path(os.environ.get("MOBILENET_DIR", DATA_ROOT / "MobileNetV2")).resolve()
+DATASET_DIR = Path(os.environ.get("DATASET_DIR", RESNET_DIR / "dataset")).resolve()
 
-RESNET_METRICS = RESNET_DIR / "outputs" / "clean_split_v1" / "metrics.json"
-MOBILENET_METRICS = MOBILENET_DIR / "outputs" / "clean_split_v1" / "metrics.json"
+RESNET_CHECKPOINT = Path(os.environ.get("RESNET_CHECKPOINT", RESNET_DIR / "models" / "clean_split_v1" / "resnet50.keras")).resolve()
+MOBILENET_CHECKPOINT = Path(os.environ.get("MOBILENET_CHECKPOINT", MOBILENET_DIR / "models" / "clean_split_v1" / "mobilenetv2.keras")).resolve()
 
-RESNET_EFFICIENCY = RESNET_DIR / "outputs" / "clean_split_v1" / "efficiency.json"
-MOBILENET_EFFICIENCY = MOBILENET_DIR / "outputs" / "clean_split_v1" / "efficiency.json"
+RESNET_METRICS = Path(os.environ.get("RESNET_METRICS", RESNET_DIR / "outputs" / "clean_split_v1" / "metrics.json")).resolve()
+MOBILENET_METRICS = Path(os.environ.get("MOBILENET_METRICS", MOBILENET_DIR / "outputs" / "clean_split_v1" / "metrics.json")).resolve()
 
-RESNET_REPORT = RESNET_DIR / "outputs" / "clean_split_v1" / "classification_report.csv"
-MOBILENET_REPORT = MOBILENET_DIR / "outputs" / "clean_split_v1" / "classification_report.csv"
+RESNET_EFFICIENCY = Path(os.environ.get("RESNET_EFFICIENCY", RESNET_DIR / "outputs" / "clean_split_v1" / "efficiency.json")).resolve()
+MOBILENET_EFFICIENCY = Path(os.environ.get("MOBILENET_EFFICIENCY", MOBILENET_DIR / "outputs" / "clean_split_v1" / "efficiency.json")).resolve()
 
-RESNET_CONFUSION = RESNET_DIR / "outputs" / "clean_split_v1" / "resnet50_confusion_matrix.csv"
-MOBILENET_CONFUSION = MOBILENET_DIR / "outputs" / "clean_split_v1" / "mobilenetv2_confusion_matrix.csv"
+RESNET_REPORT = Path(os.environ.get("RESNET_REPORT", RESNET_DIR / "outputs" / "clean_split_v1" / "classification_report.csv")).resolve()
+MOBILENET_REPORT = Path(os.environ.get("MOBILENET_REPORT", MOBILENET_DIR / "outputs" / "clean_split_v1" / "classification_report.csv")).resolve()
 
-CLASS_NAMES_PATH = RESNET_DIR / "models" / "clean_split_v1" / "class_names.json"
+RESNET_CONFUSION = Path(os.environ.get("RESNET_CONFUSION", RESNET_DIR / "outputs" / "clean_split_v1" / "resnet50_confusion_matrix.csv")).resolve()
+MOBILENET_CONFUSION = Path(os.environ.get("MOBILENET_CONFUSION", MOBILENET_DIR / "outputs" / "clean_split_v1" / "mobilenetv2_confusion_matrix.csv")).resolve()
+
+CLASS_NAMES_PATH = Path(os.environ.get("CLASS_NAMES_PATH", RESNET_DIR / "models" / "clean_split_v1" / "class_names.json")).resolve()
 
 # ─── App ─────────────────────────────────────────────────────────────────────
 
@@ -50,10 +53,24 @@ app = FastAPI(
     version="1.0.0",
 )
 
+# Parse allowed origins from environment variable or use local defaults
+env_origins = os.environ.get("ALLOWED_ORIGINS", "")
+if env_origins.strip() == "*":
+    origins = ["*"]
+elif env_origins.strip():
+    origins = [orig.strip() for orig in env_origins.split(",") if orig.strip()]
+else:
+    origins = [
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+        "http://localhost:3000",
+        "http://127.0.0.1:3000",
+    ]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
-    allow_credentials=True,
+    allow_origins=origins if origins != ["*"] else ["*"],
+    allow_credentials=True if origins != ["*"] else False,
     allow_methods=["*"],
     allow_headers=["*"],
 )

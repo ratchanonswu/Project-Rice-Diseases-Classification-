@@ -48,3 +48,9 @@ desktop.ini
 # Temporary training files
 outputs/.training_time.txt
 
+# Node / Frontend
+node_modules/
+.env.local
+.env.*.local
+dist/
+
