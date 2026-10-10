@@ -1,0 +1,13 @@
+{
+  "model": "ResNet50",
+  "test_sample_count": 570,
+  "accuracy": 0.886,
+  "precision_macro": 0.8889,
+  "precision_weighted": 0.8891,
+  "recall_macro": 0.885,
+  "recall_weighted": 0.886,
+  "f1_score_macro": 0.8839,
+  "f1_score_weighted": 0.8845,
+  "roc_auc_macro": 0.9893,
+  "roc_auc_weighted": 0.9894
+}

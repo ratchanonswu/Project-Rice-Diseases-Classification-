@@ -1,0 +1,116 @@
+{
+  "audit_metadata": {
+    "audit_date": "2026-10-10",
+    "timestamp_iso": "2026-10-10T14:00:00+07:00",
+    "task": "Rice Leaf Disease Dataset Deduplication, Leakage Prevention & Audit Report",
+    "auditor": "Senior Machine Learning Data Engineer",
+    "random_seed": 42,
+    "python_version": "3.11.9",
+    "environment": {
+      "os": "Windows",
+      "numpy": "2.4.6",
+      "pandas": "3.0.6",
+      "pillow": "12.3.0",
+      "scipy": "1.17.1",
+      "scikit-learn": "1.9.1"
+    }
+  },
+  "dataset_source": {
+    "authoritative_dataset_root": "C:\\Gitwork\\Rice diseases\\Rice Diseases Classification\\ResNet50\\dataset",
+    "mobilenetv2_dataset_link": "C:\\Gitwork\\Rice diseases\\Rice Diseases Classification\\MobileNetV2\\dataset (NTFS Junction to ResNet50\\dataset)",
+    "canonical_classes": [
+      "Bacterial Leaf Blight",
+      "Brown Spot",
+      "Healthy Rice Leaf",
+      "Leaf Blast",
+      "Leaf Scald",
+      "Sheath Blight"
+    ],
+    "total_scanned_files": 3829,
+    "total_readable_files": 3829,
+    "total_corrupt_files": 0,
+    "total_empty_files": 0
+  },
+  "exact_duplicate_findings": {
+    "total_exact_duplicate_groups": 31,
+    "total_exact_duplicate_files": 62,
+    "groups_within_same_class": 31,
+    "groups_across_different_classes": 0,
+    "label_conflicts": 0,
+    "within_train_groups": 15,
+    "within_validation_groups": 2,
+    "within_test_groups": 0,
+    "crossing_train_validation_groups": 5,
+    "crossing_train_test_groups": 9,
+    "crossing_validation_test_groups": 0,
+    "excluded_duplicate_files": 31,
+    "retained_representative_files": 31
+  },
+  "near_duplicate_findings": {
+    "method": "64-bit DCT Perceptual Hash (pHash) + Normalized Pixel MAE/RMSE",
+    "candidate_phash_threshold": 6,
+    "total_candidate_pairs": 204,
+    "confirmed_near_duplicate_pairs": 125,
+    "confirmed_near_duplicate_groups": 41,
+    "confirmed_near_duplicate_images": 103,
+    "unresolved_candidate_pairs_flagged_for_review": 79,
+    "conflicting_label_near_duplicate_pairs": 0,
+    "historical_cross_split_near_duplicate_pairs": 52
+  },
+  "clean_dataset_summary": {
+    "initial_raw_images": 3829,
+    "excluded_exact_duplicate_files": 31,
+    "clean_dataset_size": 3798,
+    "total_independent_groups": 3736,
+    "split_allocation": {
+      "train": {
+        "count": 2847,
+        "percentage": 74.96,
+        "target_percentage": 75.0
+      },
+      "validation": {
+        "count": 381,
+        "percentage": 10.03,
+        "target_percentage": 10.0
+      },
+      "test": {
+        "count": 570,
+        "percentage": 15.01,
+        "target_percentage": 15.0
+      }
+    },
+    "per_class_clean_counts": {
+      "Bacterial Leaf Blight": { "train": 477, "validation": 64, "test": 95, "total": 636 },
+      "Brown Spot": { "train": 477, "validation": 64, "test": 96, "total": 637 },
+      "Healthy Rice Leaf": { "train": 487, "validation": 65, "test": 98, "total": 650 },
+      "Leaf Blast": { "train": 464, "validation": 62, "test": 93, "total": 619 },
+      "Leaf Scald": { "train": 471, "validation": 63, "test": 94, "total": 628 },
+      "Sheath Blight": { "train": 471, "validation": 63, "test": 94, "total": 628 }
+    }
+  },
+  "split_integrity_audit": {
+    "path_overlap_train_validation": 0,
+    "path_overlap_train_test": 0,
+    "path_overlap_validation_test": 0,
+    "exact_sha256_overlap_train_validation": 0,
+    "exact_sha256_overlap_train_test": 0,
+    "exact_sha256_overlap_validation_test": 0,
+    "group_id_overlap_train_validation": 0,
+    "group_id_overlap_train_test": 0,
+    "group_id_overlap_validation_test": 0,
+    "missing_or_unreadable_manifest_paths": 0,
+    "duplicate_paths_within_any_manifest": 0,
+    "excluded_files_leakage_into_clean_manifests": 0,
+    "all_six_classes_present_in_all_splits": true,
+    "canonical_index_mapping_preserved": true
+  },
+  "original_file_preservation": {
+    "original_files_deleted": 0,
+    "original_files_modified": 0,
+    "original_files_renamed": 0,
+    "original_split_csvs_modified": 0,
+    "status": "ALL_ORIGINAL_DATA_AND_ARTIFACTS_STRICTLY_PRESERVED"
+  },
+  "audit_verdict": "READY_FOR_EXPERIMENTAL_ADOPTION"
+}
+

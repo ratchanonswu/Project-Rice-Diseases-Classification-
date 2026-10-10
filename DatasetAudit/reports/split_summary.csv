@@ -1,0 +1,8 @@
+class_name,original_total,excluded_duplicates,clean_total,train_count,train_pct,val_count,val_pct,test_count,test_pct
+Bacterial Leaf Blight,636,0,636,477,75.00%,64,10.06%,95,14.94%
+Brown Spot,646,9,637,477,74.88%,64,10.05%,96,15.07%
+Healthy Rice Leaf,653,3,650,487,74.92%,65,10.00%,98,15.08%
+Leaf Blast,634,15,619,464,74.96%,62,10.02%,93,15.02%
+Leaf Scald,628,0,628,471,75.00%,63,10.03%,94,14.97%
+Sheath Blight,632,4,628,471,75.00%,63,10.03%,94,14.97%
+TOTAL,3829,31,3798,2847,74.96%,381,10.03%,570,15.01%

@@ -164,11 +164,13 @@ def main():
     parser = argparse.ArgumentParser(description="Evaluate MobileNetV2 on rice leaf test set.")
     parser.add_argument("--num_examples", type=int, default=8, help="Number of visual examples to export (default: 8)")
     parser.add_argument("--profile_samples", type=int, default=50, help="Number of samples for latency profiling (default: 50)")
+    parser.add_argument("--output_dir", type=str, default="outputs", help="Directory for output files (default: outputs)")
+    parser.add_argument("--models_dir", type=str, default="models", help="Directory for saved model and classes (default: models)")
     args = parser.parse_args()
 
     project_root = Path(__file__).resolve().parent.parent
-    models_dir = project_root / "models"
-    output_dir = project_root / "outputs"
+    models_dir = (project_root / args.models_dir).resolve()
+    output_dir = (project_root / args.output_dir).resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
     model_path = models_dir / "mobilenetv2.keras"

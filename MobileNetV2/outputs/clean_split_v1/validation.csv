@@ -1,0 +1,382 @@
+image_path,class_name,numeric_class_index,group_id
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_173114.jpg,Bacterial Leaf Blight,0,GRP_0023
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231014_173121.jpg,Bacterial Leaf Blight,0,GRP_0025
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143106.jpg,Bacterial Leaf Blight,0,GRP_0073
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143621.jpg,Bacterial Leaf Blight,0,GRP_0075
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143623.jpg,Bacterial Leaf Blight,0,GRP_0077
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143623_1.jpg,Bacterial Leaf Blight,0,GRP_0077
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_143624.jpg,Bacterial Leaf Blight,0,GRP_0078
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\IMG_20231018_144111.jpg,Bacterial Leaf Blight,0,GRP_0084
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1018.jpg,Bacterial Leaf Blight,0,GRP_0087
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1036.jpg,Bacterial Leaf Blight,0,GRP_0089
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1125.jpg,Bacterial Leaf Blight,0,GRP_0097
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_116.jpg,Bacterial Leaf Blight,0,GRP_0101
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1204.jpg,Bacterial Leaf Blight,0,GRP_0107
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1351.jpg,Bacterial Leaf Blight,0,GRP_0117
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1458.jpg,Bacterial Leaf Blight,0,GRP_0130
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_151.jpg,Bacterial Leaf Blight,0,GRP_0141
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1583.jpg,Bacterial Leaf Blight,0,GRP_0149
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1648.jpg,Bacterial Leaf Blight,0,GRP_0156
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1743.jpg,Bacterial Leaf Blight,0,GRP_0165
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1957.jpg,Bacterial Leaf Blight,0,GRP_0184
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_1964.jpg,Bacterial Leaf Blight,0,GRP_0185
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_230.jpg,Bacterial Leaf Blight,0,GRP_0191
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_265.jpg,Bacterial Leaf Blight,0,GRP_0193
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_2954.jpg,Bacterial Leaf Blight,0,GRP_0201
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_2956.jpg,Bacterial Leaf Blight,0,GRP_0202
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3068.jpg,Bacterial Leaf Blight,0,GRP_0210
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3144.jpg,Bacterial Leaf Blight,0,GRP_0219
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3145.jpg,Bacterial Leaf Blight,0,GRP_0220
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3167.jpg,Bacterial Leaf Blight,0,GRP_0223
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_334.jpg,Bacterial Leaf Blight,0,GRP_0246
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3449.jpg,Bacterial Leaf Blight,0,GRP_0259
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3482.jpg,Bacterial Leaf Blight,0,GRP_0263
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3634.jpg,Bacterial Leaf Blight,0,GRP_0283
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3716.jpg,Bacterial Leaf Blight,0,GRP_0289
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3766.jpg,Bacterial Leaf Blight,0,GRP_0295
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3814.jpg,Bacterial Leaf Blight,0,GRP_0298
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3888.jpg,Bacterial Leaf Blight,0,GRP_0308
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3939.jpg,Bacterial Leaf Blight,0,GRP_0316
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_3972.jpg,Bacterial Leaf Blight,0,GRP_0318
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4085.jpg,Bacterial Leaf Blight,0,GRP_0329
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4106.jpg,Bacterial Leaf Blight,0,GRP_0332
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4211.jpg,Bacterial Leaf Blight,0,GRP_0347
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4307.jpg,Bacterial Leaf Blight,0,GRP_0359
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4482.jpg,Bacterial Leaf Blight,0,GRP_0372
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_457.jpg,Bacterial Leaf Blight,0,GRP_0384
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4585.jpg,Bacterial Leaf Blight,0,GRP_0385
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4702.jpg,Bacterial Leaf Blight,0,GRP_0392
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_4765.jpg,Bacterial Leaf Blight,0,GRP_0398
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_517.jpg,Bacterial Leaf Blight,0,GRP_0434
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5249.jpg,Bacterial Leaf Blight,0,GRP_0451
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5252.jpg,Bacterial Leaf Blight,0,GRP_0453
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_527.jpg,Bacterial Leaf Blight,0,GRP_0456
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5617.jpg,Bacterial Leaf Blight,0,GRP_0492
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5633.jpg,Bacterial Leaf Blight,0,GRP_0493
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_5963.jpg,Bacterial Leaf Blight,0,GRP_0535
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6040.jpg,Bacterial Leaf Blight,0,GRP_0545
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6052.jpg,Bacterial Leaf Blight,0,GRP_0546
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6172.jpg,Bacterial Leaf Blight,0,GRP_0558
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6239.jpg,Bacterial Leaf Blight,0,GRP_0569
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6414.jpg,Bacterial Leaf Blight,0,GRP_0581
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6455.jpg,Bacterial Leaf Blight,0,GRP_0586
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_6471.jpg,Bacterial Leaf Blight,0,GRP_0588
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_787.jpg,Bacterial Leaf Blight,0,GRP_0609
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Bacterial Leaf Blight\aug_0_802.jpg,Bacterial Leaf Blight,0,GRP_0613
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (113).jpg,Brown Spot,1,GRP_0636
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (115).jpg,Brown Spot,1,GRP_0636
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (133).jpg,Brown Spot,1,GRP_0641
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (137).jpg,Brown Spot,1,GRP_0643
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (147).jpg,Brown Spot,1,GRP_0653
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (151).jpg,Brown Spot,1,GRP_0657
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (158).jpg,Brown Spot,1,GRP_0664
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (181).jpg,Brown Spot,1,GRP_0687
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (182).jpg,Brown Spot,1,GRP_0688
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (185).jpg,Brown Spot,1,GRP_0691
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (193).jpg,Brown Spot,1,GRP_0699
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (207).jpg,Brown Spot,1,GRP_0713
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (212).jpg,Brown Spot,1,GRP_0718
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (216).jpg,Brown Spot,1,GRP_0722
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\Brown_spot (221).jpg,Brown Spot,1,GRP_0727
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231014_172422.jpg,Brown Spot,1,GRP_0734
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231018_142942.jpg,Brown Spot,1,GRP_0741
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231018_142949.jpg,Brown Spot,1,GRP_0743
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231018_143713 - Copy.jpg,Brown Spot,1,GRP_0753
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\IMG_20231018_144156.jpg,Brown Spot,1,GRP_0758
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_122.jpg,Brown Spot,1,GRP_0766
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4800.jpg,Brown Spot,1,GRP_0805
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4865.jpg,Brown Spot,1,GRP_0817
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4912.jpg,Brown Spot,1,GRP_0824
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_4941.jpg,Brown Spot,1,GRP_0828
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5005.jpg,Brown Spot,1,GRP_0834
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5102.jpg,Brown Spot,1,GRP_0846
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5247.jpg,Brown Spot,1,GRP_0867
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5269.jpg,Brown Spot,1,GRP_0868
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5282.jpg,Brown Spot,1,GRP_0870
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5303.jpg,Brown Spot,1,GRP_0873
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5518.jpg,Brown Spot,1,GRP_0893
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5569.jpg,Brown Spot,1,GRP_0901
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5752.jpg,Brown Spot,1,GRP_0919
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5800.jpg,Brown Spot,1,GRP_0924
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5814.jpg,Brown Spot,1,GRP_0926
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_5918.jpg,Brown Spot,1,GRP_0938
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6014.jpg,Brown Spot,1,GRP_0947
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6131.jpg,Brown Spot,1,GRP_0964
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6254.jpg,Brown Spot,1,GRP_0982
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6286.jpg,Brown Spot,1,GRP_0984
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6394.jpg,Brown Spot,1,GRP_0993
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6573.jpg,Brown Spot,1,GRP_1015
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6748.jpg,Brown Spot,1,GRP_1034
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6870.jpg,Brown Spot,1,GRP_1051
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_6908.jpg,Brown Spot,1,GRP_1058
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7041.jpg,Brown Spot,1,GRP_1073
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7075.jpg,Brown Spot,1,GRP_1080
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7080.jpg,Brown Spot,1,GRP_1081
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7176.jpg,Brown Spot,1,GRP_1090
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7271.jpg,Brown Spot,1,GRP_1100
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7319.jpg,Brown Spot,1,GRP_1106
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7400.jpg,Brown Spot,1,GRP_1115
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7501.jpg,Brown Spot,1,GRP_1123
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7781.jpg,Brown Spot,1,GRP_1158
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7785.jpg,Brown Spot,1,GRP_1159
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7841.jpg,Brown Spot,1,GRP_1167
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_7930.jpg,Brown Spot,1,GRP_1172
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8071.jpg,Brown Spot,1,GRP_1197
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8088.jpg,Brown Spot,1,GRP_1200
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_81.jpg,Brown Spot,1,GRP_1203
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8220.jpg,Brown Spot,1,GRP_1215
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8319.jpg,Brown Spot,1,GRP_1228
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Brown Spot\aug_0_8446.jpg,Brown Spot,1,GRP_1243
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (1).jpg,Healthy Rice Leaf,2,GRP_1263
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (10).jpg,Healthy Rice Leaf,2,GRP_1264
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (106).jpg,Healthy Rice Leaf,2,GRP_1271
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (113).jpg,Healthy Rice Leaf,2,GRP_1279
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (124).jpg,Healthy Rice Leaf,2,GRP_1291
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (147).jpg,Healthy Rice Leaf,2,GRP_1316
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (156).jpg,Healthy Rice Leaf,2,GRP_1326
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (158).jpg,Healthy Rice Leaf,2,GRP_1328
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (164).jpg,Healthy Rice Leaf,2,GRP_1335
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (182).jpg,Healthy Rice Leaf,2,GRP_1355
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (21).jpg,Healthy Rice Leaf,2,GRP_1359
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (28).jpg,Healthy Rice Leaf,2,GRP_1365
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (61).jpg,Healthy Rice Leaf,2,GRP_1394
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (63).jpg,Healthy Rice Leaf,2,GRP_1396
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (75).jpg,Healthy Rice Leaf,2,GRP_1408
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\Healthy_rice_leaf (80).jpg,Healthy Rice Leaf,2,GRP_1414
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1295.jpg,Healthy Rice Leaf,2,GRP_1457
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1351.jpg,Healthy Rice Leaf,2,GRP_1459
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1357.jpg,Healthy Rice Leaf,2,GRP_1460
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1430.jpg,Healthy Rice Leaf,2,GRP_1467
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1583.jpg,Healthy Rice Leaf,2,GRP_1483
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1622.jpg,Healthy Rice Leaf,2,GRP_1488
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1665.jpg,Healthy Rice Leaf,2,GRP_1493
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1726.jpg,Healthy Rice Leaf,2,GRP_1503
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1738.jpg,Healthy Rice Leaf,2,GRP_1504
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1887.jpg,Healthy Rice Leaf,2,GRP_1519
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_1933.jpg,Healthy Rice Leaf,2,GRP_1523
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_2008.jpg,Healthy Rice Leaf,2,GRP_1533
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_443.jpg,Healthy Rice Leaf,2,GRP_1560
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_576.jpg,Healthy Rice Leaf,2,GRP_1576
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_636.jpg,Healthy Rice Leaf,2,GRP_1581
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_673.jpg,Healthy Rice Leaf,2,GRP_1585
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_717.jpg,Healthy Rice Leaf,2,GRP_1615
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7210.jpg,Healthy Rice Leaf,2,GRP_1621
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7302.jpg,Healthy Rice Leaf,2,GRP_1634
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7490.jpg,Healthy Rice Leaf,2,GRP_1655
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7514.jpg,Healthy Rice Leaf,2,GRP_1657
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7706.jpg,Healthy Rice Leaf,2,GRP_1675
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7842.jpg,Healthy Rice Leaf,2,GRP_1685
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7878.jpg,Healthy Rice Leaf,2,GRP_1689
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_7944.jpg,Healthy Rice Leaf,2,GRP_1698
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8028.jpg,Healthy Rice Leaf,2,GRP_1706
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8169.jpg,Healthy Rice Leaf,2,GRP_1716
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_829.jpg,Healthy Rice Leaf,2,GRP_1727
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8462.jpg,Healthy Rice Leaf,2,GRP_1742
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8532.jpg,Healthy Rice Leaf,2,GRP_1748
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8540.jpg,Healthy Rice Leaf,2,GRP_1751
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8570.jpg,Healthy Rice Leaf,2,GRP_1754
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8584.jpg,Healthy Rice Leaf,2,GRP_1756
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_867.jpg,Healthy Rice Leaf,2,GRP_1762
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8734.jpg,Healthy Rice Leaf,2,GRP_1769
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8753.jpg,Healthy Rice Leaf,2,GRP_1771
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8894.jpg,Healthy Rice Leaf,2,GRP_1785
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_8975.jpg,Healthy Rice Leaf,2,GRP_1791
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9088.jpg,Healthy Rice Leaf,2,GRP_1798
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9487.jpg,Healthy Rice Leaf,2,GRP_1834
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9488.jpg,Healthy Rice Leaf,2,GRP_1835
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9528.jpg,Healthy Rice Leaf,2,GRP_1839
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9587.jpg,Healthy Rice Leaf,2,GRP_1847
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9619.jpg,Healthy Rice Leaf,2,GRP_1852
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9703.jpg,Healthy Rice Leaf,2,GRP_1861
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9815.jpg,Healthy Rice Leaf,2,GRP_1876
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_982.jpg,Healthy Rice Leaf,2,GRP_1878
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9845.jpg,Healthy Rice Leaf,2,GRP_1881
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Healthy Rice Leaf\aug_0_9941.jpg,Healthy Rice Leaf,2,GRP_1892
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231006_170553.jpg,Leaf Blast,3,GRP_1906
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231006_170556.jpg,Leaf Blast,3,GRP_1907
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_171556.jpg,Leaf Blast,3,GRP_1921
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_171711.jpg,Leaf Blast,3,GRP_1925
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_172033.jpg,Leaf Blast,3,GRP_1930
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_172552.jpg,Leaf Blast,3,GRP_1942
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_172552_1.jpg,Leaf Blast,3,GRP_1942
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231014_172553.jpg,Leaf Blast,3,GRP_1942
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143101.jpg,Leaf Blast,3,GRP_1951
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\IMG_20231018_143751.jpg,Leaf Blast,3,GRP_1967
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_208.jpg,Leaf Blast,3,GRP_2007
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_220.jpg,Leaf Blast,3,GRP_2010
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_222.jpg,Leaf Blast,3,GRP_2011
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_260.jpg,Leaf Blast,3,GRP_2021
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_65.jpg,Leaf Blast,3,GRP_2049
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_6994.jpg,Leaf Blast,3,GRP_2060
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7014.jpg,Leaf Blast,3,GRP_2067
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7032.jpg,Leaf Blast,3,GRP_2070
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7041.jpg,Leaf Blast,3,GRP_2072
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7089.jpg,Leaf Blast,3,GRP_2077
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7190.jpg,Leaf Blast,3,GRP_2096
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7239.jpg,Leaf Blast,3,GRP_2101
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7285.jpg,Leaf Blast,3,GRP_2107
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7362.jpg,Leaf Blast,3,GRP_2116
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7471.jpg,Leaf Blast,3,GRP_2128
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7514.jpg,Leaf Blast,3,GRP_2135
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7551.jpg,Leaf Blast,3,GRP_2142
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7570.jpg,Leaf Blast,3,GRP_2147
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7713.jpg,Leaf Blast,3,GRP_2169
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7753.jpg,Leaf Blast,3,GRP_2177
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7824.jpg,Leaf Blast,3,GRP_2184
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7903.jpg,Leaf Blast,3,GRP_2198
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7939.jpg,Leaf Blast,3,GRP_2206
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7970.jpg,Leaf Blast,3,GRP_2209
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_7998.jpg,Leaf Blast,3,GRP_2211
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8187.jpg,Leaf Blast,3,GRP_2237
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8251.jpg,Leaf Blast,3,GRP_2243
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8475.jpg,Leaf Blast,3,GRP_2279
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8477.jpg,Leaf Blast,3,GRP_2280
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8595.jpg,Leaf Blast,3,GRP_2296
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8653.jpg,Leaf Blast,3,GRP_2302
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8696.jpg,Leaf Blast,3,GRP_2312
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8766.jpg,Leaf Blast,3,GRP_2319
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8782.jpg,Leaf Blast,3,GRP_2322
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8816.jpg,Leaf Blast,3,GRP_2326
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8862.jpg,Leaf Blast,3,GRP_2334
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8922.jpg,Leaf Blast,3,GRP_2343
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8959.jpg,Leaf Blast,3,GRP_2350
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_8991.jpg,Leaf Blast,3,GRP_2356
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9019.jpg,Leaf Blast,3,GRP_2359
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9145.jpg,Leaf Blast,3,GRP_2372
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9223.jpg,Leaf Blast,3,GRP_2388
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9288.jpg,Leaf Blast,3,GRP_2397
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9308.jpg,Leaf Blast,3,GRP_2403
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9361.jpg,Leaf Blast,3,GRP_2412
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9390.jpg,Leaf Blast,3,GRP_2415
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9469.jpg,Leaf Blast,3,GRP_2431
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9760.jpg,Leaf Blast,3,GRP_2464
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9864.jpg,Leaf Blast,3,GRP_2484
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9894.jpg,Leaf Blast,3,GRP_2490
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9928.jpg,Leaf Blast,3,GRP_2497
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Blast\aug_0_9945.jpg,Leaf Blast,3,GRP_2502
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (100).jpg,Leaf Scald,4,GRP_2509
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (22).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (23).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (24).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (25).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (26).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (27).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (28).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (29).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (30).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (31).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (32).jpg,Leaf Scald,4,GRP_2518
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (49).jpg,Leaf Scald,4,GRP_2522
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (61).jpg,Leaf Scald,4,GRP_2534
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (83).jpg,Leaf Scald,4,GRP_2555
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\Leaf_scald (85).jpg,Leaf Scald,4,GRP_2557
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_117.jpg,Leaf Scald,4,GRP_2590
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_123.jpg,Leaf Scald,4,GRP_2596
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1293.jpg,Leaf Scald,4,GRP_2607
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1313.jpg,Leaf Scald,4,GRP_2611
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1626.jpg,Leaf Scald,4,GRP_2647
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_192.jpg,Leaf Scald,4,GRP_2680
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_1930.jpg,Leaf Scald,4,GRP_2682
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2176.jpg,Leaf Scald,4,GRP_2708
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2215.jpg,Leaf Scald,4,GRP_2711
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2322.jpg,Leaf Scald,4,GRP_2721
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2424.jpg,Leaf Scald,4,GRP_2731
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2460.jpg,Leaf Scald,4,GRP_2740
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2682.jpg,Leaf Scald,4,GRP_2765
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2787.jpg,Leaf Scald,4,GRP_2774
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_2910.jpg,Leaf Scald,4,GRP_2790
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3001.jpg,Leaf Scald,4,GRP_2799
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3064.jpg,Leaf Scald,4,GRP_2802
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3260.jpg,Leaf Scald,4,GRP_2830
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3292.jpg,Leaf Scald,4,GRP_2833
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_338.jpg,Leaf Scald,4,GRP_2850
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3382.jpg,Leaf Scald,4,GRP_2851
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3509.jpg,Leaf Scald,4,GRP_2868
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3528.jpg,Leaf Scald,4,GRP_2870
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3622.jpg,Leaf Scald,4,GRP_2884
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3635.jpg,Leaf Scald,4,GRP_2886
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_3793.jpg,Leaf Scald,4,GRP_2903
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5173.jpg,Leaf Scald,4,GRP_2942
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5275.jpg,Leaf Scald,4,GRP_2951
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5326.jpg,Leaf Scald,4,GRP_2958
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5332.jpg,Leaf Scald,4,GRP_2960
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5416.jpg,Leaf Scald,4,GRP_2970
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5434.jpg,Leaf Scald,4,GRP_2975
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5480.jpg,Leaf Scald,4,GRP_2979
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5603.jpg,Leaf Scald,4,GRP_2994
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5632.jpg,Leaf Scald,4,GRP_2996
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5748.jpg,Leaf Scald,4,GRP_3008
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5775.jpg,Leaf Scald,4,GRP_3012
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5808.jpg,Leaf Scald,4,GRP_3020
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_5880.jpg,Leaf Scald,4,GRP_3027
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6141.jpg,Leaf Scald,4,GRP_3052
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6205.jpg,Leaf Scald,4,GRP_3059
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6239.jpg,Leaf Scald,4,GRP_3063
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_629.jpg,Leaf Scald,4,GRP_3066
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_6297.jpg,Leaf Scald,4,GRP_3068
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_805.jpg,Leaf Scald,4,GRP_3093
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_807.jpg,Leaf Scald,4,GRP_3094
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Leaf Scald\aug_0_967.jpg,Leaf Scald,4,GRP_3116
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170946.jpg,Sheath Blight,5,GRP_3127
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170951.jpg,Sheath Blight,5,GRP_3131
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_170958.jpg,Sheath Blight,5,GRP_3134
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171005.jpg,Sheath Blight,5,GRP_3139
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_171113.jpg,Sheath Blight,5,GRP_3161
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_172938.jpg,Sheath Blight,5,GRP_3185
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173700.jpg,Sheath Blight,5,GRP_3193
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173711.jpg,Sheath Blight,5,GRP_3198
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173800.jpg,Sheath Blight,5,GRP_3202
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173800_1.jpg,Sheath Blight,5,GRP_3202
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173807.jpg,Sheath Blight,5,GRP_3203
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173913.jpg,Sheath Blight,5,GRP_3212
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173950.jpg,Sheath Blight,5,GRP_3221
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_173954.jpg,Sheath Blight,5,GRP_3222
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_174000.jpg,Sheath Blight,5,GRP_3224
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_174001_1.jpg,Sheath Blight,5,GRP_3226
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231014_174002.jpg,Sheath Blight,5,GRP_3226
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_143300_1.jpg,Sheath Blight,5,GRP_3240
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_143316_1.jpg,Sheath Blight,5,GRP_3244
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_143318.jpg,Sheath Blight,5,GRP_3245
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\IMG_20231018_144301.jpg,Sheath Blight,5,GRP_3249
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (1).jpg,Sheath Blight,5,GRP_3251
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (105).jpg,Sheath Blight,5,GRP_3258
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (106).jpg,Sheath Blight,5,GRP_3259
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (123).jpg,Sheath Blight,5,GRP_3278
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (145).jpg,Sheath Blight,5,GRP_3302
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (19).jpg,Sheath Blight,5,GRP_3309
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (22).jpg,Sheath Blight,5,GRP_3313
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (32).jpg,Sheath Blight,5,GRP_3324
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (45).jpg,Sheath Blight,5,GRP_3338
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (50).jpg,Sheath Blight,5,GRP_3343
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (54).jpg,Sheath Blight,5,GRP_3309
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (63).jpg,Sheath Blight,5,GRP_3356
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (66).jpg,Sheath Blight,5,GRP_3359
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (68).jpg,Sheath Blight,5,GRP_3361
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (7).jpg,Sheath Blight,5,GRP_3363
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (71).jpg,Sheath Blight,5,GRP_3365
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (80).jpg,Sheath Blight,5,GRP_3375
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\Sheath_Blight (94).jpg,Sheath Blight,5,GRP_3389
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_106.jpg,Sheath Blight,5,GRP_3396
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_177.jpg,Sheath Blight,5,GRP_3403
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_24.jpg,Sheath Blight,5,GRP_3416
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_417.jpg,Sheath Blight,5,GRP_3440
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_555.jpg,Sheath Blight,5,GRP_3466
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_7.jpg,Sheath Blight,5,GRP_3484
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_7966.jpg,Sheath Blight,5,GRP_3487
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_7992.jpg,Sheath Blight,5,GRP_3491
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8072.jpg,Sheath Blight,5,GRP_3502
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8167.jpg,Sheath Blight,5,GRP_3519
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8238.jpg,Sheath Blight,5,GRP_3528
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8614.jpg,Sheath Blight,5,GRP_3570
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8714.jpg,Sheath Blight,5,GRP_3585
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8729.jpg,Sheath Blight,5,GRP_3588
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_8966.jpg,Sheath Blight,5,GRP_3609
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9073.jpg,Sheath Blight,5,GRP_3621
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9364.jpg,Sheath Blight,5,GRP_3657
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9403.jpg,Sheath Blight,5,GRP_3663
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9508.jpg,Sheath Blight,5,GRP_3677
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9665.jpg,Sheath Blight,5,GRP_3695
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9803.jpg,Sheath Blight,5,GRP_3707
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9830.jpg,Sheath Blight,5,GRP_3711
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9873.jpg,Sheath Blight,5,GRP_3716
+C:\Gitwork\Rice diseases\Rice Diseases Classification\ResNet50\dataset\Sheath Blight\aug_0_9901.jpg,Sheath Blight,5,GRP_3725

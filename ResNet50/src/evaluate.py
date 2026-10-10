@@ -79,16 +79,16 @@ def load_and_preprocess_test_data(test_csv: Path, img_size: tuple = (224, 224)):
     return images_arr, labels_arr, paths_arr, class_names_arr
 
 
-def measure_inference_efficiency(model: tf.keras.Model, test_images: np.ndarray, warmup: int = 20):
+def measure_inference_efficiency(model: tf.keras.Model, test_images: np.ndarray, num_profile_samples: int = 50, warmup: int = 10):
     """
     Accurately measures inference latency per image and overall throughput.
-    Includes warmup cycles to eliminate initial graph compilation overhead.
+    Uses num_profile_samples to ensure reliable latency estimation without CPU timeouts.
     """
-    n_samples = len(test_images)
-    print(f"\n[INFO] Profiling inference latency on {n_samples} test images...")
+    n_samples = min(num_profile_samples, len(test_images))
+    print(f"\n[INFO] Profiling inference latency on {n_samples} test images (warmup={warmup})...")
 
     # Warmup
-    for i in range(min(warmup, n_samples)):
+    for i in range(min(warmup, len(test_images))):
         _ = model(test_images[i:i+1], training=False)
 
     latencies = []
@@ -105,6 +105,7 @@ def measure_inference_efficiency(model: tf.keras.Model, test_images: np.ndarray,
     fps = 1000.0 / avg_ms if avg_ms > 0 else 0.0
 
     return {
+        "profiled_samples": n_samples,
         "average_inference_time_ms": round(avg_ms, 3),
         "median_inference_time_ms": round(median_ms, 3),
         "std_inference_time_ms": round(std_ms, 3),
@@ -167,6 +168,7 @@ def main():
     parser.add_argument("--test_csv", type=str, default="outputs/test.csv", help="Path to test set CSV")
     parser.add_argument("--output_dir", type=str, default="outputs", help="Directory for output reports")
     parser.add_argument("--num_examples", type=int, default=8, help="Number of visual examples to save")
+    parser.add_argument("--profile_samples", type=int, default=50, help="Number of samples for latency profiling (default: 50)")
     args = parser.parse_args()
 
     project_root = Path(__file__).resolve().parent.parent
@@ -291,13 +293,16 @@ def main():
     # 4. Save Test Predictions CSV
     pred_class_names = [class_names[idx] for idx in y_pred]
     is_correct = [bool(t == p) for t, p in zip(y_true, y_pred)]
-    df_preds = pd.DataFrame({
+    preds_dict = {
         "image_path": test_paths,
         "true_class": test_class_names,
         "predicted_class": pred_class_names,
         "confidence": [round(float(c), 4) for c in confidences],
         "correct": is_correct
-    })
+    }
+    for c_idx, c_name in enumerate(class_names):
+        preds_dict[f"prob_{c_name.replace(' ', '_')}"] = [round(float(p), 4) for p in y_probs[:, c_idx]]
+    df_preds = pd.DataFrame(preds_dict)
     test_preds_path = output_dir / "test_predictions.csv"
     df_preds.to_csv(test_preds_path, index=False)
     print(f"[INFO] Test predictions saved to: {test_preds_path}")
@@ -326,7 +331,7 @@ def main():
         with open(train_time_file, "r", encoding="utf-8") as f:
             training_time_sec = float(f.read().strip())
 
-    latency_stats = measure_inference_efficiency(model, test_images)
+    latency_stats = measure_inference_efficiency(model, test_images, num_profile_samples=args.profile_samples)
 
     efficiency_data = {
         "model_architecture": "ResNet50",

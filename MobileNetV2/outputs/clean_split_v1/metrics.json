@@ -1,0 +1,13 @@
+{
+  "model": "MobileNetV2",
+  "test_sample_count": 570,
+  "accuracy": 0.8158,
+  "precision_macro": 0.8167,
+  "precision_weighted": 0.8178,
+  "recall_macro": 0.8146,
+  "recall_weighted": 0.8158,
+  "f1_score_macro": 0.8132,
+  "f1_score_weighted": 0.8144,
+  "roc_auc_macro": 0.9709,
+  "roc_auc_weighted": 0.9712
+}

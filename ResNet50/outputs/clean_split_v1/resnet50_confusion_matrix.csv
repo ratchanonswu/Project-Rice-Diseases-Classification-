@@ -1,0 +1,7 @@
+,Bacterial Leaf Blight,Brown Spot,Healthy Rice Leaf,Leaf Blast,Leaf Scald,Sheath Blight
+Bacterial Leaf Blight,79,5,0,4,6,1
+Brown Spot,1,91,2,0,1,1
+Healthy Rice Leaf,0,3,95,0,0,0
+Leaf Blast,6,10,0,67,7,3
+Leaf Scald,7,1,0,1,82,3
+Sheath Blight,2,0,0,0,1,91

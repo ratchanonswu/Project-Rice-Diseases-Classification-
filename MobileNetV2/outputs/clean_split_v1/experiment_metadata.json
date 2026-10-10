@@ -1,0 +1,83 @@
+{
+  "experiment_title": "Rice Leaf Disease Classification using MobileNetV2 Transfer Learning",
+  "model": "MobileNetV2",
+  "python_version": "3.11.9",
+  "tensorflow_version": "2.21.0",
+  "keras_version": "3.15.1",
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "random_seed": 42,
+  "dataset_split": {
+    "train": 2847,
+    "validation": 381,
+    "test": 570
+  },
+  "classes": [
+    "Bacterial Leaf Blight",
+    "Brown Spot",
+    "Healthy Rice Leaf",
+    "Leaf Blast",
+    "Leaf Scald",
+    "Sheath Blight"
+  ],
+  "image_size": [
+    224,
+    224,
+    3
+  ],
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "optimizer": "Adam",
+  "max_epochs": 25,
+  "actual_epochs_trained": 25,
+  "best_epoch": 23,
+  "augmentation_settings": {
+    "random_flip": "horizontal",
+    "random_rotation": 0.1,
+    "random_zoom": 0.1,
+    "random_translation": 0.08
+  },
+  "model_architecture": {
+    "backbone": "MobileNetV2 (ImageNet Pretrained, Frozen)",
+    "pooling": "GlobalAveragePooling2D",
+    "dense_head": 256,
+    "dropout": 0.3,
+    "output_units": 6,
+    "output_activation": "softmax"
+  },
+  "test_results": {
+    "model": "MobileNetV2",
+    "test_sample_count": 570,
+    "accuracy": 0.8158,
+    "precision_macro": 0.8167,
+    "precision_weighted": 0.8178,
+    "recall_macro": 0.8146,
+    "recall_weighted": 0.8158,
+    "f1_score_macro": 0.8132,
+    "f1_score_weighted": 0.8144,
+    "roc_auc_macro": 0.9709,
+    "roc_auc_weighted": 0.9712
+  },
+  "efficiency": {
+    "model_architecture": "MobileNetV2",
+    "total_parameters": 2587462,
+    "trainable_parameters": 329478,
+    "non_trainable_parameters": 2257984,
+    "model_file_size_bytes": 13585025,
+    "model_file_size_mb": 12.96,
+    "training_time_seconds": 698.71,
+    "training_time_minutes": 11.65,
+    "hardware_profile": {
+      "platform": "Windows-10-10.0.26200-SP0",
+      "processor": "AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD",
+      "python_version": "3.11.9",
+      "device": "CPU"
+    },
+    "inference_latency": {
+      "profiled_samples": 50,
+      "average_inference_time_ms": 105.072,
+      "median_inference_time_ms": 104.888,
+      "std_inference_time_ms": 1.243,
+      "throughput_fps": 9.52
+    }
+  }
+}

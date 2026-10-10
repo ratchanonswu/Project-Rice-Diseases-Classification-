@@ -1,0 +1,9 @@
+class_name,image_count,percentage,min_dimensions,max_dimensions,avg_dimensions,corrupted_images
+Bacterial Leaf Blight,636,16.75%,224x224,1600x1200,416.6x360.6,0
+Brown Spot,637,16.77%,224x224,1600x1200,541.0x449.8,0
+Healthy Rice Leaf,650,17.11%,224x224,4000x3840,786.9x699.5,0
+Leaf Blast,619,16.30%,224x224,1600x1200,458.4x390.3,0
+Leaf Scald,628,16.54%,224x224,1600x1200,390.1x341.8,0
+Sheath Blight,628,16.54%,224x224,4000x3264,859.7x696.3,0
+TOTAL,3798,100.00%,-,-,-,0
+

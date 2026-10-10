@@ -1,0 +1,17 @@
+{
+  "model_architecture": "ResNet50",
+  "total_parameters": 24113798,
+  "trainable_parameters": 526086,
+  "model_file_path": "models/clean_split_v1/resnet50.keras",
+  "model_file_size_bytes": 101333595,
+  "model_file_size_mb": 96.64,
+  "training_time_seconds": 2021.67,
+  "training_time_minutes": 33.69,
+  "inference_latency": {
+    "profiled_samples": 50,
+    "average_inference_time_ms": 196.539,
+    "median_inference_time_ms": 195.805,
+    "std_inference_time_ms": 3.397,
+    "throughput_fps": 5.09
+  }
+}

@@ -177,14 +177,16 @@ def main():
     parser.add_argument("--epochs", type=int, default=25, help="Maximum epochs (default: 25)")
     parser.add_argument("--batch_size", type=int, default=32, help="Batch size (default: 32)")
     parser.add_argument("--lr", type=float, default=0.0001, help="Initial learning rate (default: 0.0001)")
+    parser.add_argument("--output_dir", type=str, default="outputs", help="Directory for output files (default: outputs)")
+    parser.add_argument("--models_dir", type=str, default="models", help="Directory for saved model and classes (default: models)")
     parser.add_argument("--dense_units", type=int, default=256, help="Units in top dense layer (default: 256)")
     parser.add_argument("--dropout", type=float, default=0.3, help="Dropout rate before output (default: 0.3)")
     parser.add_argument("--seed", type=int, default=42, help="Random seed (default: 42)")
     args = parser.parse_args()
 
     project_root = Path(__file__).resolve().parent.parent
-    output_dir = project_root / "outputs"
-    models_dir = project_root / "models"
+    output_dir = (project_root / args.output_dir).resolve()
+    models_dir = (project_root / args.models_dir).resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
     models_dir.mkdir(parents=True, exist_ok=True)
 
